@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31b6790ce53c79140b6752d4faf6f228, type: 3}
+  m_Name: New Character Database 1
+  m_EditorClassIdentifier: 
+  characters:
+  - characterName: Mary
+    characterSprite: {fileID: 932986603, guid: a25a5ada41ee7764b87c7ce3449ce1a7, type: 3}
+    characterText: Mary
+    animatorController: {fileID: 9100000, guid: ee287075308e1a74fb73b18be81eba1c, type: 2}
+  - characterName: Elisia
+    characterSprite: {fileID: -1218270256, guid: d87dcd8989737d84e8f6cbed1cfd7a2b, type: 3}
+    characterText: Elisia
+    animatorController: {fileID: 9100000, guid: 4bd4b3f5e683ebf4e917203a1567982c, type: 2}
+  - characterName: Tiff
+    characterSprite: {fileID: 828202288, guid: e904a1a8fd424e24db4ae96c40fc3d48, type: 3}
+    characterText: Tiff
+    animatorController: {fileID: 9100000, guid: c4f7ee76ccfddbc4882e0da5c767dfd2, type: 2}
+  - characterName: Keith
+    characterSprite: {fileID: 1908494392, guid: 81bbbcad06ba87048b2270e2f110116e, type: 3}
+    characterText: Keith
+    animatorController: {fileID: 9100000, guid: 4257b76e0a424804d8b07f383243e386, type: 2}
+  - characterName: George
+    characterSprite: {fileID: -1461820454, guid: 851174daa29671a4eb7f383dea69c2a2, type: 3}
+    characterText: George
+    animatorController: {fileID: 9100000, guid: ff346939c42d8a541b3a5e349f96a7ed, type: 2}
+  - characterName: Ben
+    characterSprite: {fileID: 1803377012, guid: 9b01e5528ea63754db912dbfd96cf905, type: 3}
+    characterText: Ben
+    animatorController: {fileID: 9100000, guid: 822d97c9bc139434c81e732d3afaf922, type: 2}
